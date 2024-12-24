@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as o}from"./chunks/framework.Ps2l0eYJ.js";const f=JSON.parse('{"title":"算法","description":"","frontmatter":{},"headers":[],"relativePath":"modules/算法/算法.md","filePath":"modules/算法/算法.md"}'),l={name:"modules/算法/算法.md"},r=o("",5),i=[r];function s(_,n,c,d,h,u){return t(),e("div",null,i)}const p=a(l,[["render",s]]);export{f as __pageData,p as default};
